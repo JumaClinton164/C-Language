@@ -28,7 +28,7 @@ printf("%s%10s", "Ratings", "Votes");
 printf("\n");
 for (int c=1; c<=FREQUENCY_SIZE; c++)
 {
-printf("%d%10d", c, ratings[c]);
+printf("%10d%20d", c, ratings[c]);
 printf("\n");
 }
 return 0;
