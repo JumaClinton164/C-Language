@@ -40,4 +40,5 @@ int main(void)
 	printf("\n");
 	printf("The Fibonacci_Series of the Number is: %d", fibo);
 	return 0;
+
 }
