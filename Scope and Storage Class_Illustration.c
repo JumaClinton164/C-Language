@@ -48,4 +48,5 @@ int main(void)
 	printf("Local x in main is %d.", x);
 	printf("\n");
 	return 0;
+
 }
